@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 -   Tarifas asociadas a las tarjetas de débito
 -   Beneficios de una tarjeta de debito
 -   Que se necesita para tener una
--   Conclusion
+-   Conclusión 
 -   Bibliografia
 
 ## Introducción
@@ -59,6 +59,10 @@ Algunas cuentas bancarias pueden incurrir en tarifas mensuales o anuales, aunque
 ## Que se necesita para tener una
 
 Puedes adquirir la tuya en alguna aplicación en internet o ir directamente a la sucursal en donde te pedirán la siguiente información: comprobante de domicilio y una identificación personal. También es importante saber que tipo de tarjeta te conviene más.
+
+## Conclusión
+
+Después de todo lo anterior podemos notar los grandes beneficios de las tarjetas de débito, siendo una herramienta muy util para administrar nuestro dinero y tener esa conexión con el mundo digital. Al poder tener nuesto dinero digital nos abre las puertas a inversiones o mercados digitales que de otra forma no serían posibles.
 
 ## Bibliografia
 
