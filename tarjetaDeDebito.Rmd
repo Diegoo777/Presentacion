@@ -2,8 +2,7 @@
 ## descargue la imagen llamada "logo.png" a donde lo vaya a correr para que funcione por favor
 title: "Tarjeta de Débito"
 subtitle: "Un viaje al mundo de las finanzas"
-author: "Equipo 1"
-## Abigail Sampedro Gutierrez, Diego Pedraza Barajas, Ana Berenice Garcia Hernandez Y Karen Brito Castillo
+author: "Abigail Sampedro, Diego Pedraza, Karen Brito y Ana Berenice García"
 date: "26 de Septiembre de 2023"
 output:
   ioslides_presentation:
